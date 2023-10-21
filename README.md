@@ -16,8 +16,8 @@ Including Various Projects during Multicampus BootCamp
 - Streamlit 제작하여 시각
 - AWS Ec2 서버 바탕 진행, 노션으로 프로젝트 기록 정리
 
-### 4️⃣ 네이버뉴스기사 Scrapy & 뉴스레터 제작 (NaverNews NewsLetter) (팀프로젝트)
-- BeautifulSoup, Scrapy 활용하여 네이버 뉴스기사 크롤링
+### 4️⃣ 다음 뉴스기사 Scrapy & 뉴스레터 제작 (NaverNews NewsLetter) (팀프로젝트)
+- BeautifulSoup, Scrapy 활용하여 다음 뉴스기사 크롤링
 - 정규표현식 활용하여 전처리 진행
 - Topic Modeling LDA 활용하여 뉴스기사 주제별로 분류
 - Figma, Stripo.email 활용하여 뉴스레터 HTML 문서로 제작
